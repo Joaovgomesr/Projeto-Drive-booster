@@ -1,4 +1,4 @@
-Olá, nesse projeto, resolve tentar recriar a pagina inicial do software Drive Booster. O Driver Booster é um software desenvolvido pela IObit que ajuda a manter os drivers do seu computador atualizados.
+Olá, nesse projeto, resolvi tentar recriar a pagina inicial do software Drive Booster. O Driver Booster é um software desenvolvido pela IObit que ajuda a manter os drivers do seu computador atualizados.
 
 Meu intuito era recriar a pagina inicial do software, mesmo não sabendo muito em Desenvolvimento web, para ir trinando :)
 
